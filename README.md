@@ -86,7 +86,6 @@ npm run lint
 * App.vue: Главный компонент приложения с возможностью переключения языков.
 
 ## Скриншоты
-![Иллюстрации к проекту](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
-
-## Лицензия
-Этот проект распространяется под лицензией MIT.
+![Страница на En](https://github.com/Aitmuhamet/dev-to-fout-card/blob/main/screenshots/en.png)
+![Страница на Ru](https://github.com/Aitmuhamet/dev-to-fout-card/blob/main/screenshots/ru.png)
+![Модальное окно (teleport в #modal)](https://github.com/Aitmuhamet/dev-to-fout-card/blob/main/screenshots/modal.png)
