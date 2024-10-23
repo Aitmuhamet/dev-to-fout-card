@@ -25,7 +25,7 @@
 
 ## Технологии
 
-- [Vue.js (v2.x)](https://vuejs.org/)
+- [Vue.js (v3.x)](https://vuejs.org/)
 - [Vue CLI](https://cli.vuejs.org/)
 - [vue-i18n](https://kazupon.github.io/vue-i18n/)
 - HTML5, CSS3, SCSS
